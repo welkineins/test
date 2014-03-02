@@ -4,6 +4,6 @@ int main() {
 	// @@~
 	cout << "T____T";
 	cout << "Q______Q";
-	cout << "ZZZAAABBBCCCDDZZ";
+	cout << "ZZZAAABBBCCCDDZZzzz:wq";
 	return 0;
 }
